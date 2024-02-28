@@ -1,0 +1,51 @@
+[
+    {
+        "userId":"bc6c4139-6a05-4e45-88ae-d5f180631046",
+        "userName":"Carlos",
+        "userSurname":"García",
+        "password":"contraseñatrabajo"
+    },
+    {
+        "userId": "9a587f4e-2954-4b9d-8baf-3eae62a61b84",
+        "userName": "María",
+        "userSurname": "López",
+        "password": "maria1234"
+
+    },
+    {
+        "userId": "e8ebe88d-0537-42fb-bab6-fac56d4ac425",
+        "userName": "Ana",
+        "userSurname": "Martíne",
+        "password": "anita123"
+
+    },
+    {
+        "userId": "c9d10b1f-055e-4c1b-8b14-8da08e37a0b5",
+        "userName": "Juan",
+        "userSurname": "Rodríguez",
+        "password": "juani123",
+        "books": [
+            {
+                "bookId": "3fc19021-f61c-4c8b-91b1-7b1c82bc48a3",
+                "bookTitle": "El principito",
+                "bookEditorial": "Gallimard",
+                "bookPublication": 1943,
+                "libraryId": "1e42917d-ec84-4e0a-a5d4-5a34b9a1c036"
+            },
+            {
+                "bookId": "4a6d8994-3c3b-421e-b51e-4301e8fc6140",
+                "bookTitle": "Rayuela",
+                "bookEditorial": "Editorial Sudamericana",
+                "bookPublication": 1963,
+                "libraryId": "2d5476f8-ec46-4e56-8c5b-7c6f5d91c58a"
+            }
+        ]
+    },
+    {
+        "userId": "71d0ff20-9a5b-4fa8-a366-d6932e6791b2",
+        "userName": "Laura",
+        "userSurname": "Díaz",
+        "password": "laura1234"
+
+    }  
+]
